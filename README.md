@@ -31,9 +31,9 @@ I specialize in identifying high-impact vulnerabilities within enterprise identi
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="Benjamin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sparksbenjamin&show_icons=true&theme=tokyonight&count_private=true" alt="Benjamin's Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparksbenjamin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
