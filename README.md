@@ -1,43 +1,60 @@
-### Hi there 👋, my name is Ben Sparks
-#### Strategic IT Leader Driving Innovation in Enterprise Solutions, Cybersecurity, and Cloud Technologies
-![Strategic IT Leader Driving Innovation in Enterprise Solutions, Cybersecurity, and Cloud Technologies](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi, I'm Benjamin Sparks 👋 
+### Cybersecurity Researcher | Offensive Security | Homelab Enthusiast
 
-With over 15 years of hands-on experience in the IT industry, I've cultivated a versatile skill set encompassing Enterprise Solutions Architecture, Project Management, and Cybersecurity. My journey from Network Engineer to IT Manager has been driven by a passion for innovation and problem-solving in dynamic environments.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Platform-Linux-blue?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Virtualization-Proxmox-orange?style=for-the-badge&logo=proxmox" />
+</p>
 
-Throughout my career, I've been at the forefront of integrating cutting-edge technologies and optimizing processes to drive organizational efficiency. From spearheading cloud migrations to orchestrating seamless deployments, I thrive on tackling complex challenges head-on.
+---
 
-My expertise spans various IT environments, including Cloud Hybrid setups, fully Cloud configurations, and On-Premises infrastructures. Leveraging my proficiency in Agile methodologies and DevOps practices, I've led cross-functional teams to deliver transformative solutions that align with business objectives.
+### 🔍 Research & Core Competencies
+I specialize in identifying high-impact vulnerabilities within enterprise identity systems and cloud infrastructure.
 
-Whether it's implementing robust security measures to safeguard against cyber threats or architecting scalable infrastructure to support organizational growth, I'm committed to staying ahead of the curve in an ever-evolving industry.
+- **Vulnerability Research:** Focus on Microsoft Entra ID, Autodiscover protocols, and unauthenticated enumeration vectors.
+- **Security Tooling:** Active user and contributor to workflows involving **Burp Suite, Caido, Nuclei,** and **Ffuf**.
+- **Infrastructure-as-Code:** Managing an enterprise-grade homelab (Proxmox, TrueNAS Scale, Docker) with a focus on high-performance networking (10G SFP+).
+- **Deception Technology:** Developing industrial control system (ICS) personas for T-Pot honeypots to capture targeted threat intel.
 
-I excel in fostering collaboration and driving innovation, always seeking opportunities to leverage emerging technologies to drive business impact. As a strategic thinker and results-driven leader, I'm ready to bring my expertise to the table and make a tangible difference in your organization.
+---
 
-Let's connect to discuss how we can leverage technology to propel your business forward!
+### 🛠️ The Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, PHP, ASP.NET, Bash |
+| **Security** | Burp Suite, Caido, Nuclei, Metasploit, T-Pot |
+| **Infrastructure** | Proxmox, Docker, UniFi, TrueNAS, 10G Networking |
+| **AI/ML** | Ollama, Agent Zero, Local LLM Orchestration |
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on this page. 
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="Benjamin's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sparksbenjamin?tab=repositories&q=sparks&type=&language=&sort=)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sparks-benjamin//)  
+### 🎓 Education & Certifications
+- **B.S. Cyber Security**
+- **A.S. Network Security**
+- **A.S. Computer Programming**
 
-# BEN SPARKS
-## Summary:
-* 
+---
 
-### Well Hello There 👋
+### ☕ Support My Research
+If you've found my security disclosures or tools helpful, consider supporting my work:
 
-<!--
-**sparksbenjamin/sparksbenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.buymeacoffee.com/yourusername">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+</a>
 
-Here are some ideas to get you started:
+### 📫 Let's Connect
+[<img src="https://img.shields.io/badge/Matrix-Element-000000?style=for-the-badge&logo=matrix&logoColor=white" />](your-matrix-link) 
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />](your-linkedin-link)
 
-- 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*“In a world of closed doors, the man with the key is king. And in a world of keys, the man who can pick a lock is free.”*
