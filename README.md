@@ -54,7 +54,7 @@ If you've found my security disclosures or tools helpful, consider supporting my
 
 ### 📫 Let's Connect
 [<img src="https://img.shields.io/badge/Matrix-Element-000000?style=for-the-badge&logo=matrix&logoColor=white" />](your-matrix-link) 
-[<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/sparks-benjamin)
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/sparks-benjamin)
 
 ---
 *“In a world of closed doors, the man with the key is king. And in a world of keys, the man who can pick a lock is free.”*
