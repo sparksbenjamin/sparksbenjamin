@@ -48,7 +48,7 @@ I specialize in identifying high-impact vulnerabilities within enterprise identi
 ### ☕ Support My Research
 If you've found my security disclosures or tools helpful, consider supporting my work:
 
-<a href="https://www.buymeacoffee.com/yourusername">
+<a href="https://buymeacoffee.com/sparksbenjamin">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
 </a>
 
