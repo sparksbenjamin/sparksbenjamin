@@ -56,7 +56,7 @@ If you've found my security disclosures or tools helpful, consider supporting my
 [<img src="https://img.shields.io/badge/Matrix-Element-000000?style=for-the-badge&logo=matrix&logoColor=white" />](your-matrix-link) 
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/sparks-benjamin)
 
-<details><strong>Stats</strong>
+<details>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparksbenjamin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
