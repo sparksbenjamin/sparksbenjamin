@@ -60,4 +60,4 @@ If you've found my security disclosures or tools helpful, consider supporting my
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparksbenjamin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
-*“In a world of closed doors, the man with the key is king. And in a world of keys, the man who can pick a lock is free.”*
+*“In a world of locked doors, the man with the key is king. And in a world of keys, the man who can pick a lock is free.”*
